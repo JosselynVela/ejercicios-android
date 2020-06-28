@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ejercicio42</string>
+    <string name="autor">Joss</string>
+    <string name="version_aplicacion">1</string>
+    <string name="finalizar">Finalizar programa</string>
+    <string name="radiosuma">add</string>
+    <string name="radioresta">subtract</string>
+    <string name="botonoperacion">resolve</string>
+
+</resources>

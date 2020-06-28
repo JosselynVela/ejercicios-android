@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ejercicio42</string>
+    <string name="autor">Joss</string>
+    <string name="version_aplicacion">1</string>
+    <string name="finalizar">Finalizar programa</string>
+    <string name="radiosuma">sumar</string>
+    <string name="radioresta">restar</string>
+    <string name="botonoperacion">operar</string>
+</resources>

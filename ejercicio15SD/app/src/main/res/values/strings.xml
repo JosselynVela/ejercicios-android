@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ejercicio15SD</string>
+    <string name="txt_nobmbre">Nombre del archivo</string>
+    <string name="boton_Guardar">Guardar</string>
+    <string name="boton_Consultar">Consultar</string>
+
+</resources>
